@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@webcomponents/webcomponentsjs" level="application" />
+    <orderEntry type="library" name="intersection-observer" level="application" />
+    <orderEntry type="library" name="resize-observer-polyfill" level="application" />
+    <orderEntry type="library" name="@google/model-viewer" level="application" />
+    <orderEntry type="library" name="focus-visible" level="application" />
+  </component>
+</module>
