@@ -10,5 +10,9 @@
     <orderEntry type="library" name="resize-observer-polyfill" level="application" />
     <orderEntry type="library" name="@google/model-viewer" level="application" />
     <orderEntry type="library" name="focus-visible" level="application" />
+    <orderEntry type="library" name="material-components-web" level="application" />
+    <orderEntry type="library" name="resize-observer-polyfill" level="application" />
+    <orderEntry type="library" name="intersection-observer" level="application" />
+    <orderEntry type="library" name="@webcomponents/webcomponentsjs" level="application" />
   </component>
 </module>
