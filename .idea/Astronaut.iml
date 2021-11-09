@@ -14,5 +14,6 @@
     <orderEntry type="library" name="resize-observer-polyfill" level="application" />
     <orderEntry type="library" name="intersection-observer" level="application" />
     <orderEntry type="library" name="@webcomponents/webcomponentsjs" level="application" />
+    <orderEntry type="library" name="model-viewer" level="application" />
   </component>
 </module>
